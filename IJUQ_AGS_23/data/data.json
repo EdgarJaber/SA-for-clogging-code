@@ -1,0 +1,51 @@
+{
+  "runId" : 1220895672,
+  "timestamp" : 1591604042706,
+  "gvId" : 171,
+  "gvType" : "51B",
+  "nbHeuresExploitDebut" : 0,
+  "nbHeuresExploitFin" : 420480,
+  "delta" : 250.0,
+  "performanceGV" : {
+    "dateMaj" : "2020-06-08T08:14:02.705Z",
+    "indicateurs" : {
+      "dateReleve" : "2009-08-23T06:00:00Z",
+      "puissanceThermique" : 9.277547829787234E8,
+      "tempEntreeSecondaire" : 491.43617021276594,
+      "tempEntreePrimaire" : 594.2,
+      "pressionPrimaire" : 1.502E7,
+      "pressionDome" : 5781574.468085106
+    }
+  },
+  "planBouchage" : { },
+  "chimie" : {
+    "nettoyage" : [ {
+      "nbHeuresExploit" : 150801,
+      "type" : "curatif"
+    }, {
+      "nbHeuresExploit" : 221938,
+      "type" : "preventif"
+    }],
+    "conditionnementSecondaire" : [ {
+      "nbHeuresExploit" : 0,
+      "type" : "Morpholine",
+      "ph" : 9.2
+    }, {
+      "nbHeuresExploit" : 161184,
+      "type" : "Morpholine",
+      "ph" : 9.6
+    }, {
+      "nbHeuresExploit" : 210240,
+      "type" : "ETA",
+      "ph" : 9.6
+    } ],
+    "particules" : {
+      "diametre" : 2.0E-6,
+      "concentrationEnEntree" : 4.0E-9
+    },
+    "especesSolubles" : {
+      "concentrationEnEntree" : 3.4E-9
+    }
+  },
+  "result_id" : 2502853
+}
