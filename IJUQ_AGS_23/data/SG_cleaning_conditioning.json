@@ -1,0 +1,24 @@
+{
+  "chimie" : {
+    "nettoyage" : [ {
+      "nbHeuresExploit" : 150801,
+      "type" : "curatif"
+    }, {
+      "nbHeuresExploit" : 221938,
+      "type" : "preventif"
+    }],
+    "conditionnementSecondaire" : [ {
+      "nbHeuresExploit" : 0,
+      "type" : "Morpholine",
+      "ph" : 9.2
+    }, {
+      "nbHeuresExploit" : 161184,
+      "type" : "Morpholine",
+      "ph" : 9.6
+    }, {
+      "nbHeuresExploit" : 210240,
+      "type" : "ETA",
+      "ph" : 9.6
+    } ]
+  }
+}
