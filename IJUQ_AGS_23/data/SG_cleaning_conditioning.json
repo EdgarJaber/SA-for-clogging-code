@@ -9,16 +9,16 @@
     }],
     "conditionnementSecondaire" : [ {
       "nbHeuresExploit" : 0,
-      "type" : "Morpholine",
-      "ph" : 9.2
+      "type" : "C1",
+      "ph" : "low"
     }, {
       "nbHeuresExploit" : 161184,
-      "type" : "Morpholine",
-      "ph" : 9.6
+      "type" : "C1",
+      "ph" : "high"
     }, {
       "nbHeuresExploit" : 210240,
-      "type" : "ETA",
-      "ph" : 9.6
+      "type" : "C2",
+      "ph" : "high"
     } ]
   }
 }
