@@ -1,22 +1,22 @@
 {
-  "chimie" : {
-    "nettoyage" : [ {
-      "nbHeuresExploit" : 150801,
-      "type" : "curatif"
+  "chemistry" : {
+    "cleaning" : [ {
+      "time" : 150801,
+      "type" : "curative"
     }, {
-      "nbHeuresExploit" : 221938,
-      "type" : "preventif"
+      "time" : 221938,
+      "type" : "preventive"
     }],
-    "conditionnementSecondaire" : [ {
-      "nbHeuresExploit" : 0,
+    "conditioning" : [ {
+      "time" : 0,
       "type" : "C1",
       "ph" : "low"
     }, {
-      "nbHeuresExploit" : 161184,
+      "time" : 161184,
       "type" : "C1",
       "ph" : "high"
     }, {
-      "nbHeuresExploit" : 210240,
+      "time" : 210240,
       "type" : "C2",
       "ph" : "high"
     } ]
