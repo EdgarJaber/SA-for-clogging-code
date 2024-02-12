@@ -4,4 +4,4 @@ This GitHub repo reassembles the source-codes used in the article *Sensitivity A
 
 Its main purpose is applying the uncertainty quantification tools (polynomial chaos expansions, Sobol' and HSIC indices) present in the [OpenTURNS](http://openturns.github.io/openturns/latest/contents.html) Python library.
 
-The notebooks are structured as in the paper.
+The /scripts/ folder contains the relevant 
