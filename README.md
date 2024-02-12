@@ -1,4 +1,4 @@
-# Sensitivity Analysis with OpenTURNS
+# Sensitivity Analysis for clogging code with OpenTURNS
 
 This GitHub repo reassembles the source-codes used in the article *Sensitivity Analysis for a Multi-physics Clogging Simulation code* ([arXiv:2401.05741](https://arxiv.org/pdf/2401.05741.pdf)). 
 
