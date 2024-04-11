@@ -6,4 +6,4 @@ Its main purpose is applying the uncertainty quantification tools (polynomial ch
 
 The /scripts/ folder contains the relevant Jupyter notebooks following the order of the article sections and all corresponding plots are found in the /plots/ folder.
 
-Due to industrial privacy, the data.zip folder is momentarily password protected. It can be given upon request by writing me at edgar.jaber@ens-paris-saclay.fr 
+Due to industrial privacy, the data.zip folder is momentarily password protected. It can be given upon request by sending an email at edgar.jaber@ens-paris-saclay.fr, vincent.chabridon@edf.fr and emmanuel.remy@edf.fr.
