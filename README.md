@@ -1,8 +1,8 @@
-# Sensitivity Analysis for clogging code with OpenTURNS
+# Sensitivity Analyses of a Multi-Physics Long-Term Clogging Model for Steam Generators with OpenTURNS
 
-This GitHub repo reassembles the source-codes used in the article *Sensitivity Analysis for a Multi-physics Clogging Simulation code* ([arXiv:2401.05741](https://arxiv.org/pdf/2401.05741.pdf)). 
+This GitHub repo reassembles the source-codes used in the article *Sensitivity Analyses of a Multi-Physics Long-Term Clogging Model for Steam Generators* ([arXiv:2401.05741](https://arxiv.org/pdf/2401.05741.pdf)). 
 
-Its main purpose is applying the uncertainty quantification tools (polynomial chaos expansions, Sobol' and HSIC indices) present in the [OpenTURNS](http://openturns.github.io/openturns/latest/contents.html) Python library.
+Its main purpose is applying the uncertainty quantification tools (polynomial chaos expansions, Sobol' and HSIC indices) present in the [OpenTURNS](http://openturns.github.io/openturns/latest/contents.html) C++/Python library.
 
 The /scripts/ folder contains the relevant Jupyter notebooks following the order of the article sections and all corresponding plots are found in the /plots/ folder.
 
