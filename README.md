@@ -6,7 +6,7 @@ This GitHub repo reassembles the source code used in the article *Sensitivity An
 - preprint: [arXiv:2401.05741](https://arxiv.org/pdf/2401.05741.pdf).
 
 To cite this work, please use the following BibTeX entry:
-'''
+```
 @article{jaber_et_al_IJUQ_2024,
   author  = {Jaber, E. and Chabridon, V. and Remy, E. and Baudin, M. and Lucor, D. and Mougeot, M. and Iooss, B.},
   title   = {{Sensitivity Analyses of a Multi-Physics Long-Term Clogging Model for Steam Generators}},
@@ -15,7 +15,7 @@ To cite this work, please use the following BibTeX entry:
   pages   = {},
   year    = {2024}
 }
-'''
+```
 
 
 Its main purpose is to apply several uncertainty quantification tools (e.g., Polynomial Chaos Expansions, Sobol' and HSIC indices) available in the [OpenTURNS](http://openturns.github.io/openturns/latest/contents.html) C++/Python library.
