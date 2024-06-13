@@ -1,4 +1,5 @@
-# Sensitivity Analyses of a Multi-Physics Long-Term Clogging Model for Steam Generators with OpenTURNS
+# Sensitivity Analyses of a Multi-Physics Long-Term Clogging Model for Steam Generators
+## Tutorial code using OpenTURNS
 
 This GitHub repo reassembles the source code used in the article *Sensitivity Analyses of a Multi-Physics Long-Term Clogging Model for Steam Generators* published in the International Journal for Uncertainty Quantification:
 - final version: [DOI: 10.1615/Int.J.UncertaintyQuantification.2024051489](https://www.dl.begellhouse.com/references/52034eb04b657aea,forthcoming,51489.html)
